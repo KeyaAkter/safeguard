@@ -34,7 +34,7 @@
   box-sizing: border-box;
 }
 
-/* =============SCROOL BAR DESIGN============= */
+/* =============SCROLL BAR DESIGN============= */
 
 ::-webkit-scrollbar {
   width: 10px;
@@ -736,7 +736,7 @@ h4 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(4px);
   z-index: 100;
   transition: all 0.5s;
@@ -764,7 +764,7 @@ h4 {
 .modal__form input {
   font-size: 1.7rem;
   padding: 1rem 1.5rem;
-  border: 0.5px solid rgba(221, 221, 221, 0.589);
+  border: 1px solid rgba(221, 221, 221, 0.589);
   border-radius: 0.5rem;
   transition: all 0.3s;
   color: rgb(4, 8, 15);
